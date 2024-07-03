@@ -416,7 +416,7 @@ background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100
     left: 5px;
 }
 .body2imgage:hover{
-    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+    filter: drop-shadow(20px 20px 20px 20px black)
     transition: 200ms;
 }
 .manhwa{
